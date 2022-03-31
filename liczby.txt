@@ -4,3 +4,7 @@ Trzy
 Cztery
 Pięć
 Sześć
+Siedem
+Osiem
+Dziewieć
+Dziesięć
